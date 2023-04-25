@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "host": "db",
+    "user": "root",
+    "password": "123",
+    "database": "test",
+    "driver": "mysql",
+    "multipleStatements": true
+  }
+}
